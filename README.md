@@ -7,7 +7,7 @@ Demo was inspired from
 
 ## Contibution 
 
-Would be happy for addition and advices to this project 
+Any advioces and addition would be deeply appreciated.
 
-### Inspired and demosntrated by Alex Lee
-[![Youtube Video/img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/Dzx0-9cTIMc "Alex Lee")
+### Inspired/ Referenced from Alex Lee
+(<iframe width="1086" height="611" src="https://www.youtube.com/embed/Dzx0-9cTIMc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> "Alex Lee")
